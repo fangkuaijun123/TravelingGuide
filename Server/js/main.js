@@ -15,8 +15,8 @@ window.onload = function () {
         myChart.setOption(
             (option = {
                     title: {
-                        text: 'hubei',
-                        subtext: 'Data from Wikipedia',
+                        text: '湖北省',
+                        subtext: '数据来自aliyun',
                         sublink:
                         'http://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83#cite_note-12'
                     },
